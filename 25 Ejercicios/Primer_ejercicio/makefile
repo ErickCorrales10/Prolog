@@ -1,15 +1,16 @@
 ERLC = erlc
 ERl = erl
 SRC = holamundo.erl
-BEAN = holamundo.beam
-
-all: compile run
+SRC1 = holamundo
+BEAM = holamundo.beam
 
 compile:
 	$(ERLC) $(SRC)
 
-run: compile
-	$(ERL) -noshell -s holamundo main -s init stop
+run: $(BEAM)
+	erl -noshell -s $(SRC1) main -s init stop
+
+all:	compile		run
 
 clean:
 	rm -f *.beam
