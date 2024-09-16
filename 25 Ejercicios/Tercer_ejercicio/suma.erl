@@ -27,7 +27,7 @@
 -export([main/0, suma/2]).
 
 main() ->
-	io:format("La suma es: ~p~n", [suma(4, 5)]).
+	io:format("La suma de 4 + 5 es: ~p~n", [suma(4, 5)]).
 
 % Define una función que suma dos números
 suma(X, Y) ->

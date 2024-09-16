@@ -2,7 +2,7 @@ ERLC = erlc
 ERl = erl
 SRC = dividir_cadena.erl
 SRC1 = dividir_cadena
-BEAM = divisor_cadena.beam
+BEAM = dividir_cadena.beam
 
 compile:
 	$(ERLC) $(SRC)

@@ -22,7 +22,6 @@
 % 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `generar_lista_/1`.
 %
 %------------------------------------------------------------------------------
--module(convertir2).
 -module(generar_lista).
 -export([main/0, generar_lista_/1]).
 

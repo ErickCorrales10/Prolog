@@ -29,6 +29,6 @@ main() ->
 	par_o_impar(10).
 
 par_o_impar(N) when N rem 2 == 0 ->
-	io:format("El numero ingresado es Par~n");
-par_o_impar(_) ->
-	io:format("El numero ingresado es Impar~n").
+	io:format("El numero ingresado ~p es Par~n", [N]);
+par_o_impar(N) ->
+	io:format("El numero ingresado ~p es Impar~n" , [N]).

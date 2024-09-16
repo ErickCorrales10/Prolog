@@ -27,7 +27,7 @@
 -export([main/0, fibonacci/1]).
 
 main() ->
-	io:format("El valor de fibonacci es: ~p~n", [fibonacci(5)]).
+	io:format("El valor fibonacci de 20 es: ~p~n", [fibonacci(20)]).
 
 fibonacci(0) ->
 	0;

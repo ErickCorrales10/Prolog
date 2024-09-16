@@ -28,6 +28,7 @@
 main() ->
 	List = [1, 2, 3],
 	Resultado = esta_vacia(List),
+	io:format("Los valores en la lista son: ~p~n", [List]),
 	io:format("La lista está vacía? ~p~n", [Resultado]).
 
 % Verifica si una lista está vacía

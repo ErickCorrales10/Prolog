@@ -1,8 +1,8 @@
 ERLC = erlc
 ERl = erl
 SRC = celsius_fahrenheit.erl
-SRC1 = celcius_fahrenheit
-BEAM = celcius_fahrenheit.beam
+SRC1 = celsius_fahrenheit
+BEAM = celsius_fahrenheit.beam
 
 compile:
 	$(ERLC) $(SRC)

@@ -28,6 +28,7 @@ main() ->
 	Lista = ["Erick", 10, "Melissa", "Messi"],
 	Elemento1 = "Roberto",
 	Elemento2 = "Melissa",
+	io:format("La lista es: ~p~n", [Lista]),
 	io:format("~p se ecuentra en la lista? ~p~n", [Elemento1, buscar(Elemento1, Lista)]),
 	io:format("~p se ecuentra en la lista? ~p~n", [Elemento2, buscar(Elemento2, Lista)]).
 
