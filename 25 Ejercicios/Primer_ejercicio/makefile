@@ -9,7 +9,7 @@ compile:
 	$(ERLC) $(SRC)
 
 run: compile
-	$(ERL) -noshell -s holamundo start -s init stop
+	$(ERL) -noshell -s holamundo main -s init stop
 
 clean:
 	rm -f *.beam
