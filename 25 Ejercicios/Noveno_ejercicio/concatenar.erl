@@ -1,3 +1,27 @@
+%------------------------------------------------------------------------------
+% Módulo:       concatenar
+% Propósito:    Concatena dos listas en una sola.
+% 
+% Autor:        Erick Corrales
+% Fecha:        12 de septiembre de 2024
+% Versión:      1.0
+%
+% Descripción: 
+% Aprender a unir dos listas usando el operador de concatenación.
+%
+% Dependencias:
+% Ninguna.
+%
+% Ejemplo de Uso:
+% 1. Compilar el módulo: 
+%    c(concatenar).
+% 2. Llamar a la función:
+%    concatenar:main().
+%
+% Historial de Cambios:
+% 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `concatenar/2`.
+%
+%------------------------------------------------------------------------------
 -module(concatenar).
 -export([main/0, concatenar/2]).
 

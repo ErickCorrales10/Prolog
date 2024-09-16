@@ -1,3 +1,27 @@
+%------------------------------------------------------------------------------
+% Módulo:       mapear
+% Propósito:	Aplica una función a cada elemento de una lista.
+% 
+% Autor:        Erick Corrales
+% Fecha:        12 de septiembre de 2024
+% Versión:      1.0
+%
+% Descripción: 
+% Aplicar una función a cada elemento de una lista, demostrando el uso de listas de comprensión.
+% 
+% Dependencias
+% Ninguna.
+%
+% Ejemplo de Uso:
+% 1. Compilar el módulo: 
+%    c(mapear).
+% 2. Llamar a la función:
+%    mapear:main().
+%
+% Historial de Cambios:
+% 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `mapear/2`.
+%
+%------------------------------------------------------------------------------
 -module(mapear).
 -export([main/0, mapear/2]).
 
