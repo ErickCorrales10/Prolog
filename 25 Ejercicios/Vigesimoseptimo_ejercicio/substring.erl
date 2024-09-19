@@ -19,7 +19,7 @@
 %    substring:main().
 %
 % Historial de Cambios:
-% 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `_substring/3`.
+% 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `substring/3`.
 %
 %------------------------------------------------------------------------------
 -module(substring).
@@ -28,10 +28,10 @@
 main() ->
   String = "Hello, World!",
   io:formato("Se desea obtener por separado la palabra Worl de la frase Hello, World!~n"),
-  SubString = _substring(String, 7, 11),
+  SubString = substring(String, 7, 11),
   io:format("Y aqui se encuentra en una variable: ~p~n", [SubString]).
 
-_substring(String, StartIndex, EndIndex) ->
+substring(String, StartIndex, EndIndex) ->
     AdjustedStart = StartIndex - 1, % Convertir a índice basado en cero
     Length = EndIndex - StartIndex + 1,
     Substring = string:sub_string(String, AdjustedStart, Length),
