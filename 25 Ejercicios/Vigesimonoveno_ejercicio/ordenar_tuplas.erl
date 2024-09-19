@@ -19,7 +19,7 @@
 %    ordenar_tuplas:main().
 %
 % Historial de Cambios:
-% 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `factorial/1`.
+% 12/09/2024 - 1.0 - Creación del módulo con función básica `main/0` y `sort/1`.
 %
 %------------------------------------------------------------------------------
 
