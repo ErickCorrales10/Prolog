@@ -29,7 +29,7 @@
 main() ->
     List = [{a, 3}, {b, 1}, {c, 2}],
     io:format("Lista original: ~p~n", [List]),
-    SortedList = sort_by_second(List),
+    SortedList = sort(List),
     io:format("Lista ordenada por el segundo elemento: ~p~n", [SortedList]).
 
 sort(List) ->
