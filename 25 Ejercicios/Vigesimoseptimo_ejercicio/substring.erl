@@ -27,12 +27,12 @@
 
 main() ->
   String = "Hello, World!",
-  io:formato("Se desea obtener por separado la palabra Worl de la frase Hello, World!~n"),
-  SubString = substring(String, 7, 11),
+  io:format("Se desea obtener por separado la palabra World de la frase Hello, World!~n"),
+  SubString = substring(String, 9, 13),
   io:format("Y aqui se encuentra en una variable: ~p~n", [SubString]).
 
 substring(String, StartIndex, EndIndex) ->
     AdjustedStart = StartIndex - 1, % Convertir a índice basado en cero
     Length = EndIndex - StartIndex + 1,
-    Substring = string:sub_string(String, AdjustedStart, Length),
+    Substring = lists:sublist(String, AdjustedStart, Length),
     Substring.
