@@ -4,32 +4,35 @@
 % Descripción: Programa en Prolog que aplana una lista anidada
 %              en una lista simple.
 %              Se incluye una versión comentada
-%              en C# para referencia.
+%              en Python para referencia.
 % ===============================================
 
-% -------- Código en C# (comentado) ------------
-% using System;
-% using System.Collections.Generic;
-% 
-% class Program
-% {
-%     // Función para encontrar el último elemento de una lista en C#.
-%     static T MyLast<T>(List<T> list)
-%     {
-%         if (list == null || list.Count == 0)
-%             throw new ArgumentException("La lista no puede estar vacía.");
-%         
-%         return list[list.Count - 1]; // Devuelve el último elemento.
-%     }
-% 
-%     static void Main()
-%     {
-%         List<char> lista = new List<char> { 'a', 'b', 'c', 'd' };
-%         char ultimoElemento = MyLast(lista);
-% 
-%         Console.WriteLine("El último elemento es: " + ultimoElemento);
-%     }
-% }
+% -------- Código en Python (comentado) ------------
+%
+% def ingresar_elementos():
+%   entrada = input("Ingresa una lista anidada (por ejemplo, [1, [2, [3, 4]], 5]): ")
+%
+%   try:
+%       lista_anidada = eval(entrada)  # eval convierte la cadena a una lista
+%       if isinstance(lista_anidada, list):  # Asegurarse de que la entrada sea una lista válida
+%           resultado = my_flatten(lista_anidada)
+%           print("Lista aplanada:", resultado)
+%       else:
+%           print("La entrada no es una lista válida.")
+%   except:
+%       print("Error: La entrada no es válida.")
+%
+% def my_flatten(lista_anidada):
+%   lista = []  # Lista para almacenar los elementos aplanados
+%   for elemento in lista_anidada:
+%       if isinstance(elemento, list):
+%           lista.extend(my_flatten(elemento))  # Aplanar recursivamente si es una lista
+%       else:
+%           lista.append(elemento)  # Agregar el elemento si no es lista
+%   return lista
+%
+% ingresar_elementos()
+
 % ----------------------------------------------
 
 % -------- Código en Prolog --------------------
