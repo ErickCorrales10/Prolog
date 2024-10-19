@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\bin\Debug\net8.0\Programa3.exe
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\bin\Debug\net8.0\Programa3.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\bin\Debug\net8.0\Programa3.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\bin\Debug\net8.0\Programa3.dll
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\bin\Debug\net8.0\Programa3.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.dll
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\refint\Programa3.dll
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\Programa3.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\10 Programas\Programa3\Programa3\obj\Debug\net8.0\ref\Programa3.dll

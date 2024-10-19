@@ -62,8 +62,8 @@ transfer(X, [X|Xs], [X|Ys], Rest) :-
 % ?- pack([], R).
 %       R = [] .
 
-% ?- pack([x], R).
-%       R = [[x]].
+% ?- pack([X], R).
+%       R = [[X]].
 
 % ?- pack([1, 2, 3], R).
 %       R = [[1], [2], [3]].

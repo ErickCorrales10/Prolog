@@ -13,23 +13,53 @@
 % 
 % class Program
 % {
-%     // Función para encontrar el último elemento de una lista en C#.
-%     static T MyLast<T>(List<T> list)
-%     {
-%         if (list == null || list.Count == 0)
-%             throw new ArgumentException("La lista no puede estar vacía.");
-%         
-%         return list[list.Count - 1]; // Devuelve el último elemento.
-%     }
-% 
-%     static void Main()
-%     {
-%         List<char> lista = new List<char> { 'a', 'b', 'c', 'd' };
-%         char ultimoElemento = MyLast(lista);
-% 
-%         Console.WriteLine("El último elemento es: " + ultimoElemento);
-%     }
-% }
+%       private static IList<string> _lista = new List<string> {"Erick", "Messi", "Federer", "Ronaldinho"}; 
+%
+%       public static void Main(string[] args)
+%       {
+%           BuscarLista();
+%           Console.Clear();
+%       }
+%
+%       static void BuscarLista()
+%       {
+%           int posicion;
+%
+%           while(true)
+%           {
+%               Console.Clear();
+%               Console.WriteLine("Valores en la lista: ");
+%               foreach (var item in _lista)
+%                   Console.WriteLine(item);
+%
+%               Console.Write($"Ingrese la posición  del elemento a buscar (número máximo: {_lista.Count}): ");
+%               string ?entrada = Console.ReadLine();
+%
+%               // Intentar convertir la entrada a un número entero
+%               if (int.TryParse(entrada, out posicion))
+%               {
+%                   // Verificar si la posición es válida
+%                   if (posicion >= 0 && posicion < _lista.Count)
+%                   {
+%                       Console.WriteLine($"El elemento en la posición {posicion} es: {_lista[posicion]}");
+%                       Console.ReadKey();
+%                       break;
+%                   }
+%                   else
+%                   {
+%                       Console.WriteLine($"Por favor, ingrese una posición válida dentro del rango");
+%                       Console.ReadKey();
+%                   }
+%               }
+%               else
+%               {
+%                   Console.WriteLine($"Entrada no válida. Debe ingresar un número");
+%                   Console.ReadKey();
+%               }
+%           }
+%           
+%       }
+%   }
 % ----------------------------------------------
 
 % -------- Código en Prolog --------------------

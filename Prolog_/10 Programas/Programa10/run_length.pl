@@ -1,10 +1,8 @@
 % ===============================================
 % Autor: Erick Corrales
 % Fecha: 18 de octubre de 2024
-% Descripción: Programa en Prolog que codifica una lista
+% Descripción: Programa en Prolog que codifica una lista de modo
 %              Run-Length 
-%              Se incluye una versión comentada
-%              en C# para referencia.
 % ===============================================
 
 % -------- Código en C# (comentado) ------------
@@ -33,8 +31,11 @@
 % ----------------------------------------------
 
 % -------- Código en Prolog --------------------
-% Predicado pack([X|Xs], [[X|Ys]|Zs]) que agrupa duplicados consecutivos de una lista
-% en sublistas
+
+% Predicado encode(L, R) que permite codificar una lista usando Run-Length
+encode(L, R) :-
+    pack(L, P),
+    transform(P, R).
 
 % Caso base: una lista vacía se agrupa como una lista vacía
 pack([], []).
@@ -43,6 +44,12 @@ pack([], []).
 pack([X|Xs], [[X|Ys]|Zs]) :-
     transfer(X, Xs, Ys, Rest),
     pack(Rest, Zs).
+
+% Transforma sublistas en parejas (N, X), donde N es la cantidad de elementos
+transform([], []).
+transform([[X|Xs]|Ys], [[N, X]|Zs]) :-
+    length([X|Xs], N),
+    transform(Ys, Zs).
 
 % Transfiere los elementos duplicados consecutivos a una sublista
 transfer(X, [], [], []).
@@ -55,19 +62,8 @@ transfer(X, [Y|Ys], [], [Y|Ys]) :-
 transfer(X, [X|Xs], [X|Ys], Rest) :-
     transfer(X, Xs, Ys, Rest).
 
-% Ejemplo de uso:
-% ?- pack([a, a, b, b, c, a, a], R).
-%       R = [[a, a], [b, b], [c], [a, a]].
-
-% ?- pack([], R).
-%       R = [] .
-
-% ?- pack([x], R).
-%       R = [[x]].
-
-% ?- pack([1, 2, 3], R).
-%       R = [[1], [2], [3]].
-
-% ?- pack([1, 1, 2, 2, 2, 3, 1, 1], R).
-%       R = [[1, 1], [2, 2, 2], [3], [1, 1]].
-% ----------------------------------------------
+% -----------------------------------------------------------------
+% Ejemplos de uso
+% ?- encode([a, a, a, b, b, c, c, c, c, d], R).
+%       R = [[3, a], [2, b], [4, c], [1, d]]
+% -----------------------------------------------------------------
