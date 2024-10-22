@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\bin\Debug\net8.0\EliminarKEsimo.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\bin\Debug\net8.0\EliminarKEsimo.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\bin\Debug\net8.0\EliminarKEsimo.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\bin\Debug\net8.0\EliminarKEsimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\bin\Debug\net8.0\EliminarKEsimo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\refint\EliminarKEsimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\EliminarKEsimo.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa20\EliminarKEsimo\obj\Debug\net8.0\ref\EliminarKEsimo.dll

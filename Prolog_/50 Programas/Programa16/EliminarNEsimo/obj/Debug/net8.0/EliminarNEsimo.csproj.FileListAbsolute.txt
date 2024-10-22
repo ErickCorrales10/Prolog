@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\bin\Debug\net8.0\EliminarNEsimo.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\bin\Debug\net8.0\EliminarNEsimo.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\bin\Debug\net8.0\EliminarNEsimo.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\bin\Debug\net8.0\EliminarNEsimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\bin\Debug\net8.0\EliminarNEsimo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\refint\EliminarNEsimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\EliminarNEsimo.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa16\EliminarNEsimo\obj\Debug\net8.0\ref\EliminarNEsimo.dll

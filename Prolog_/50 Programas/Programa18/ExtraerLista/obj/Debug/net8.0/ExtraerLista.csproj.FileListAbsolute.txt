@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\bin\Debug\net8.0\ExtraerLista.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\bin\Debug\net8.0\ExtraerLista.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\bin\Debug\net8.0\ExtraerLista.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\bin\Debug\net8.0\ExtraerLista.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\bin\Debug\net8.0\ExtraerLista.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\refint\ExtraerLista.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ExtraerLista.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa18\ExtraerLista\obj\Debug\net8.0\ref\ExtraerLista.dll
