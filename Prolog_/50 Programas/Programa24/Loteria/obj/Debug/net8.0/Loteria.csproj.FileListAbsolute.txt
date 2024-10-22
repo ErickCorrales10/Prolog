@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\bin\Debug\net8.0\Loteria.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\bin\Debug\net8.0\Loteria.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\bin\Debug\net8.0\Loteria.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\bin\Debug\net8.0\Loteria.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\bin\Debug\net8.0\Loteria.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\refint\Loteria.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\Loteria.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa24\Loteria\obj\Debug\net8.0\ref\Loteria.dll

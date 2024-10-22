@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\bin\Debug\net8.0\CrearListaEnteros.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\bin\Debug\net8.0\CrearListaEnteros.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\bin\Debug\net8.0\CrearListaEnteros.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\bin\Debug\net8.0\CrearListaEnteros.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\bin\Debug\net8.0\CrearListaEnteros.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\refint\CrearListaEnteros.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\CrearListaEnteros.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa22\CrearListaEnteros\obj\Debug\net8.0\ref\CrearListaEnteros.dll
