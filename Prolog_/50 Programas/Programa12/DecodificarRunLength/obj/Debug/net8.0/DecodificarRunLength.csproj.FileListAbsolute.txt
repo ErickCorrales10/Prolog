@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\bin\Debug\net8.0\DecodificarRunLength.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\bin\Debug\net8.0\DecodificarRunLength.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\bin\Debug\net8.0\DecodificarRunLength.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\bin\Debug\net8.0\DecodificarRunLength.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\bin\Debug\net8.0\DecodificarRunLength.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\refint\DecodificarRunLength.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\DecodificarRunLength.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa12\DecodificarRunLength\obj\Debug\net8.0\ref\DecodificarRunLength.dll

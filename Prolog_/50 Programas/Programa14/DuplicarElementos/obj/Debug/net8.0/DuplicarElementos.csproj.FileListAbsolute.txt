@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\bin\Debug\net8.0\DuplicarElementos.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\bin\Debug\net8.0\DuplicarElementos.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\bin\Debug\net8.0\DuplicarElementos.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\bin\Debug\net8.0\DuplicarElementos.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\bin\Debug\net8.0\DuplicarElementos.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\refint\DuplicarElementos.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\DuplicarElementos.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa14\DuplicarElementos\obj\Debug\net8.0\ref\DuplicarElementos.dll

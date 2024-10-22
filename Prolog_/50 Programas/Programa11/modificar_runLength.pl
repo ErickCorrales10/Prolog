@@ -6,49 +6,49 @@
 % ===============================================
 
 % -------- Código en Python (comentado) ------------
-% lista = []
+% def encode_modified(list):
+%     encoded = encode(list)
+%     return modify(encoded)
 %
-% def ingresar_elemenos():
-%   while True:
-%       print("Elemento a ingresar a la lista ('Salir' para terminar de agregar): ", end='')
-%       elemento = input()
-%       if elemento.lower() == 'salir':
-%           break
-%       else:
-%           try:
-%               if '.' in elemento:
-%                   elemento = float(elemento) # Conversión a float
-%               else:
-%                   elemento = int(elemento) # Conversión a int
-%               lista.append(elemento)
-%           except:
-%               lista.append(elemento)
+% def modify(encoded):
+%     result = []
 %
-% # Codificar en Run-Length
-% def codificar():
-%   if not lista:
-%       return []
-%   
-%   lista_codificada = []
-%
-%   # Inicializar variables
-%   anterior = lista[0]
-%   contador = 1
-%   
-%   for i in range(1, len(lista)):
-%       if lista[i] == anterior:
-%           contador += 1
-%       else:
-%           lista_codificada.append((anterior, contador))
-%           anterior = lista[i]
-%           contador = 1
-%   
-%   lista_codificada.append((anterior, contador))
-%   
-%   return lista_codificada
-%
-% ingresar_elemenos()
-% print(codificar())
+%     for count, element in encoded:
+%         if count == 1:
+%             result.append(element)
+%         else:
+%             result.append(f'{count}{element}')
+
+%     return result  
+
+% def encode(list):
+%     packed = pack(list)
+%     return transform(packed)
+
+% def pack(list):
+%     if not list:
+%         return []
+    
+%     packed = []
+%     current_group = [list[0]]
+
+%     for element in list[1:]:
+%         if element == current_group[-1]:
+%             current_group.append(element)
+%         else:
+%             packed.append(current_group)
+%             current_group = [element]
+
+%     packed.append(current_group)
+%     return packed
+
+% def transform(packed):
+%     return [(len(sublista), sublista[0]) for sublista in packed]
+
+% lista = ['a', 'a', 'a', 'b', 'c', 'c', 'a', 'a', 'd', 'e', 'e', 'e']
+% result = encode_modified(lista)
+% print(result)
+
 % ----------------------------------------------
 
 % -------- Código en Prolog --------------------
@@ -105,5 +105,7 @@ transfer(X, [X|Xs], [X|Ys], Rest) :-
 
 % -----------------------------------------------------------------
 % Ejemplos de uso
-% ?- 
+% ?- encode_modified([a, a, a, b, c, c, a, a, d, e, e, e], R).
+% Output:
+% R = [[3, a], b, [2, c], [2, a], d, [3, e]]
 % -----------------------------------------------------------------
