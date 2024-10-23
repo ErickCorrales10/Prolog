@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\bin\Debug\net8.0\Primo.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\bin\Debug\net8.0\Primo.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\bin\Debug\net8.0\Primo.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\bin\Debug\net8.0\Primo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\bin\Debug\net8.0\Primo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\refint\Primo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\Primo.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa30\Primo\obj\Debug\net8.0\ref\Primo.dll

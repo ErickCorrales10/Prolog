@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\bin\Debug\net8.0\ListaDeListas.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\bin\Debug\net8.0\ListaDeListas.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\bin\Debug\net8.0\ListaDeListas.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\bin\Debug\net8.0\ListaDeListas.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\bin\Debug\net8.0\ListaDeListas.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\refint\ListaDeListas.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ListaDeListas.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa28\ListaDeListas\obj\Debug\net8.0\ref\ListaDeListas.dll

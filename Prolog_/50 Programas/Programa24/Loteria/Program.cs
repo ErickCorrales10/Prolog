@@ -10,10 +10,10 @@ class Program
         int inicio = 1;
         int fin = 50;
         int total = 3;
+        Random random = new Random();
         
         while (total > 0)
         {
-            Random random = new Random();
             numeros.Add(random.Next(inicio, fin + 1));
             total--;
         }

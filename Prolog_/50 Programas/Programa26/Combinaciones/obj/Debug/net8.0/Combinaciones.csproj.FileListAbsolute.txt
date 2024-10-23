@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\bin\Debug\net8.0\Combinaciones.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\bin\Debug\net8.0\Combinaciones.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\bin\Debug\net8.0\Combinaciones.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\bin\Debug\net8.0\Combinaciones.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\bin\Debug\net8.0\Combinaciones.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\refint\Combinaciones.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\Combinaciones.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa26\Combinaciones\obj\Debug\net8.0\ref\Combinaciones.dll
