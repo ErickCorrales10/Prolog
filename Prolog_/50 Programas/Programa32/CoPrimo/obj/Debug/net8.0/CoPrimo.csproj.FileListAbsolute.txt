@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\bin\Debug\net8.0\CoPrimo.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\bin\Debug\net8.0\CoPrimo.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\bin\Debug\net8.0\CoPrimo.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\bin\Debug\net8.0\CoPrimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\bin\Debug\net8.0\CoPrimo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\refint\CoPrimo.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\CoPrimo.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa32\CoPrimo\obj\Debug\net8.0\ref\CoPrimo.dll

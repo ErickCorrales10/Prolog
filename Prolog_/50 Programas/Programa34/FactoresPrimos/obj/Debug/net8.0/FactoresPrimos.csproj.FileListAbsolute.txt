@@ -1,0 +1,15 @@
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\bin\Debug\net8.0\FactoresPrimos.exe
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\bin\Debug\net8.0\FactoresPrimos.deps.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\bin\Debug\net8.0\FactoresPrimos.runtimeconfig.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\bin\Debug\net8.0\FactoresPrimos.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\bin\Debug\net8.0\FactoresPrimos.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.AssemblyInfoInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.AssemblyInfo.cs
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.csproj.CoreCompileInputs.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.sourcelink.json
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\refint\FactoresPrimos.dll
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.pdb
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\FactoresPrimos.genruntimeconfig.cache
+D:\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa34\FactoresPrimos\obj\Debug\net8.0\ref\FactoresPrimos.dll
