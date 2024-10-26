@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\bin\Debug\net8.0\TablaVerdadOperadores.exe
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\bin\Debug\net8.0\TablaVerdadOperadores.deps.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\bin\Debug\net8.0\TablaVerdadOperadores.runtimeconfig.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\bin\Debug\net8.0\TablaVerdadOperadores.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\bin\Debug\net8.0\TablaVerdadOperadores.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.sourcelink.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\refint\TablaVerdadOperadores.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\TablaVerdadOperadores.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa42\TablaVerdadOperadores\obj\Debug\net8.0\ref\TablaVerdadOperadores.dll

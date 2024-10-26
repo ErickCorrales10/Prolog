@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\bin\Debug\net8.0\PrimosRango.exe
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\bin\Debug\net8.0\PrimosRango.deps.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\bin\Debug\net8.0\PrimosRango.runtimeconfig.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\bin\Debug\net8.0\PrimosRango.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\bin\Debug\net8.0\PrimosRango.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.sourcelink.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\refint\PrimosRango.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\PrimosRango.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa38\PrimosRango\obj\Debug\net8.0\ref\PrimosRango.dll

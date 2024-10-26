@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\bin\Debug\net8.0\ComposicionesGoldbach.exe
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\bin\Debug\net8.0\ComposicionesGoldbach.deps.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\bin\Debug\net8.0\ComposicionesGoldbach.runtimeconfig.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\bin\Debug\net8.0\ComposicionesGoldbach.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\bin\Debug\net8.0\ComposicionesGoldbach.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.sourcelink.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\refint\ComposicionesGoldbach.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ComposicionesGoldbach.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa40\ComposicionesGoldbach\obj\Debug\net8.0\ref\ComposicionesGoldbach.dll

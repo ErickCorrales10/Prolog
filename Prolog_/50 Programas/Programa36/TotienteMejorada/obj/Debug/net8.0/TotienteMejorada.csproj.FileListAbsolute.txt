@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\bin\Debug\net8.0\TotienteMejorada.exe
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\bin\Debug\net8.0\TotienteMejorada.deps.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\bin\Debug\net8.0\TotienteMejorada.runtimeconfig.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\bin\Debug\net8.0\TotienteMejorada.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\bin\Debug\net8.0\TotienteMejorada.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.sourcelink.json
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\refint\TotienteMejorada.dll
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.pdb
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\TotienteMejorada.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa36\TotienteMejorada\obj\Debug\net8.0\ref\TotienteMejorada.dll
