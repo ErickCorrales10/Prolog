@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\bin\Debug\net8.0\Huffman.exe
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\bin\Debug\net8.0\Huffman.deps.json
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\bin\Debug\net8.0\Huffman.runtimeconfig.json
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\bin\Debug\net8.0\Huffman.dll
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\bin\Debug\net8.0\Huffman.pdb
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfo.cs
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.sourcelink.json
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.dll
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\refint\Huffman.dll
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.pdb
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\Huffman.genruntimeconfig.cache
+C:\Users\HP\Desktop\Materias Tec\Materias\Prolog\Proyectos\Prolog_\50 Programas\Programa44\Huffman\obj\Debug\net8.0\ref\Huffman.dll
