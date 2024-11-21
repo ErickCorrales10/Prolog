@@ -42,11 +42,11 @@ rehabilitacion(Acusado, Resultado) :-
 % Define los recuerdos apropiados según el crimen y el nivel de empatía
 recuerdo_apropiado(Crimen, NivelEmpatia, Recuerdo) :-
     (Crimen == asesinato_en_serie, NivelEmpatia == muy_bajo, 
-     member(Recuerdo, ["perdida irreparable", "dolor de las familias", "sufrimiento de las victimas"]));
+     member(Recuerdo, ["sufrimiento de las victimas"]));
     (Crimen == falsificacion_documentos, NivelEmpatia == muy_bajo, 
-     member(Recuerdo, ["perdida irreparable", "dolor de las familias", "sufrimiento de las victimas"]));
+     member(Recuerdo, ["dolor de las familias"]));
     (Crimen == abuso_confianza_medica, NivelEmpatia == muy_bajo, 
-     member(Recuerdo, ["perdida irreparable", "dolor de las familias", "sufrimiento de las victimas"])).
+     member(Recuerdo, ["perdida irreparable"])).
 
 % Evaluar si el recuerdo asociado a un crimen produce el resultado esperado
 evaluar_resultado(Crimen, Recuerdo, ResultadoEsperado) :-
